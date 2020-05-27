@@ -1,0 +1,70 @@
+    3  pwd
+    4  ls
+    5  ls -a
+    6  clear
+    7  cd desktop/
+    8  cd fds
+    9  cd ..
+   10  cd zoom
+   11  cd ..
+   12  cd 
+   13  cd desktop/
+   14  mkdir fullstackdev
+   15  cd fullstackdev/
+   16  touch full_stack.txt
+   17  ls
+   18  cat full_stack.txt
+   19  echo "full stack dveloper" > full_stack.txt
+   20  cat full_stack.txt
+   21  echo "HTML and CSS" > full_stack.txt
+   22  cat full_stack.txt
+   23  echo "javascript" >> full_stack.txt
+   24  cat full_stack.txt
+   25  nano full_stack.txt
+   26  cat full_stack.txt
+   27  nano data.txt
+   28  ls 
+   29  rm data.txt
+   30  rm --help
+   31  ls 
+   32  rm -f data.txt
+   33  mkdir git
+   34  ls
+   35  git init
+   36  git status
+   37  git add full_stact.txt
+   38  git add full_stack.txt
+   39  git status
+   40  git commit -m "first commit"
+   41  git config --global user.email 'sanjumunni1923@gmail.com'
+   42  git config --global user.name 'sanjana1923'
+   43  git config user.email
+   44  git config user.name
+   45  git commit -m "first commit"
+   46  nano full_stack.txt
+   47  git status
+   48  git add full_stack.txt
+   49  git commit -m "second commit"
+   50  git log
+   51  mkdir Full-stack
+   52  ls
+   53  git remote -help
+   54  git remote add Full-stack https://github.com/sanjana1923/Full-stack
+   55  git remote show
+   56  git remote -v
+   57  git pull Full-stack master
+   58  git push -u Full-stack
+   59  git push --set-upstream Full-stack master
+   60  git push --set-upstream Full-stack master
+   61  sanjana1923
+   62  git push --set-upstream Full-stack master
+   63  git push -f --set-upstream Full-stack master
+   64  git commit -m "first commit"
+   65  nano Full_stack.txt
+   66  git status
+   67  git add Full-stack.txt
+   68  git commit -m "second commit"
+   69  git log
+   70   history
+   71  history 70 > git commands.txt
+   72  history 70 > gitcommands.txt
