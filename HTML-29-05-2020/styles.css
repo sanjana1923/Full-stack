@@ -1,0 +1,51 @@
+.a1{
+    background-color: lightblue;
+}
+.a2{
+    background-color: lightcyan;
+}
+.a3{
+    background-color: lightsteelblue;
+}
+
+.b1{
+    width:70%;
+    height:100%;
+    background-image:url('back1.jpeg') ;
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+.b2{
+    width:70%;
+    height:100%;
+    background-image:url('back2.jpeg') ;
+}
+.b3{
+    width:70%;
+    height:100%;
+    background-image:url('back3.jpeg') ;
+}
+
+
+
+
+.c1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    font-variant: small-caps;
+    font-weight: bolder;
+}
+.c2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: xx-large;
+    font-variant: normal;
+    font-weight: bold;
+}
+.c3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-size: 25px;
+    font-weight: lighter;
+}
