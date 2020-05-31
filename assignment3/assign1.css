@@ -1,0 +1,9 @@
+table,th,td{
+    border:1px solid blue;
+    background-color: lightslategray;
+}
+td a{
+    text-align: center;
+    display:inline-block;
+    background-color:lightslategray;
+}
